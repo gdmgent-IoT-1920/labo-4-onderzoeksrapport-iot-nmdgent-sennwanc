@@ -79,3 +79,10 @@ In de telegeneeskunde worden apparaten gebruikt voor de distributie van medicijn
 Ook in je eigen huis is de kans er dat M2M-apparaten voorkomen. Zo bestaan er ingebedde systemen waarmee je huishoudelijke toestellen van op afstand kan bedienen.
 
 Verder is M2M ook een belangrijk aspect als het aankomt op het bedienen van software op afstand, robotica, verkeerscontrole, beveiliging, logistiek en parkeergarages. Machine-to-machine is zowaar overal te vinden!
+
+## Bronnen
+[Wikipedia - Machine to Machine](https://en.wikipedia.org/wiki/Machine_to_machine)
+[Wikipedia - Point-to-point](https://en.wikipedia.org/wiki/Point-to-point_(telecommunications))
+[Avsystem - iot and m2m](https://www.avsystem.com/blog/iot-and-m2m-what-is-the-difference/)
+[Wikipedia - Theodore Paraskevakos](https://en.wikipedia.org/wiki/Theodore_Paraskevakos)
+[Internetofthingsagenda - M2M](https://internetofthingsagenda.techtarget.com/definition/machine-to-machine-M2M)
