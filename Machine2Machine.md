@@ -82,7 +82,11 @@ Verder is M2M ook een belangrijk aspect als het aankomt op het bedienen van soft
 
 ## Bronnen
 [Wikipedia - Machine to Machine](https://en.wikipedia.org/wiki/Machine_to_machine)
+
 [Wikipedia - Point-to-point](https://en.wikipedia.org/wiki/Point-to-point_(telecommunications))
+
 [Avsystem - iot and m2m](https://www.avsystem.com/blog/iot-and-m2m-what-is-the-difference/)
+
 [Wikipedia - Theodore Paraskevakos](https://en.wikipedia.org/wiki/Theodore_Paraskevakos)
+
 [Internetofthingsagenda - M2M](https://internetofthingsagenda.techtarget.com/definition/machine-to-machine-M2M)
