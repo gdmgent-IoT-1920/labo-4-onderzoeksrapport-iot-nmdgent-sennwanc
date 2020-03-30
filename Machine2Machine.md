@@ -64,7 +64,7 @@ Ook het dataverkeer verschilt tussen deze twee systemen. Bij machine-to-machine 
 
 ![M2M vs IOT](./M2MvsIOT.png "M2M vs IOT")
 
-![tabel](./tabel.png "tabel")
+![tabel](./tabel.PNG "tabel")
 
 (2) Point-to-point communicatie is een communicatieverbinding tussen twee eind- of knooppunten binnen een systeem.
 We kunnen dus concluderen dat deze twee begrippen niet ver uit elkaar liggen. Internet of things heeft veel te danken aan machine-to-machine, maar is ondertussen al verder aan het ontwikkelen. Daarnaast is en blijft M2M veel kleinschaliger dan IoT die over vee grotere systemen beschikt. Dit met behulp van gecentraliseerde gegevensverwerking, vaak in de cloud.
